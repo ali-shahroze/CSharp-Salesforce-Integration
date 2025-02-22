@@ -1,0 +1,23 @@
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\SF Integration.exe
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\SF Integration.dll.config
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\SF Integration.deps.json
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\SF Integration.runtimeconfig.json
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\SF Integration.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\SF Integration.pdb
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.AssemblyInfo.cs
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integ.9E07AAB8.Up2Date
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\refint\SF Integration.dll
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.pdb
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\SF Integration.genruntimeconfig.cache
+D:\Visual Studio\repos\SF Integration\SF Integration\obj\Debug\net8.0\ref\SF Integration.dll
